@@ -1,0 +1,32 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "fname": "Bhairab",
+      "lname": "Patra",
+      "age": 30,
+      "phone": 9999999999,
+      "gender":"Male",
+      "address" : {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      }
+    },
+    {
+      "id": 1,
+      "fname": "Runa",
+      "lname": "Patra",
+      "age": 20,
+      "phone": 9999999999,
+      "gender":"Male",
+      "address" : {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      }
+    }
+  ]
+}
